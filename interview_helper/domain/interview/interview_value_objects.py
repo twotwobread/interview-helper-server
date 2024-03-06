@@ -1,0 +1,2 @@
+QuestionId = int
+AnswerId = int
