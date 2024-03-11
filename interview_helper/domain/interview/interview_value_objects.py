@@ -1,2 +1,0 @@
-QuestionId = int
-AnswerId = int
